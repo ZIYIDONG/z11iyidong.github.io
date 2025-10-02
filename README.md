@@ -1,7 +1,3 @@
----
-layout: default
----
-
 最后更新: {{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}
 
 Address：
