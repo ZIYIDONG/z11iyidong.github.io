@@ -2,7 +2,7 @@
 
 Address：
 
-Email: ziyi.dong[at]foxmail.com
+Email: ziyi.dong@foxmail.com
 
 
 
