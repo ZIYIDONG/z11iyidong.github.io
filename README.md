@@ -18,3 +18,6 @@ Email: dongziyi_cs@foxmail.com
 
 <span id="Awards"></span>
 ## Awards
+
+
+这是<span style="color: red;">红色文字</span>;
