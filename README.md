@@ -1,3 +1,14 @@
+---
+layout: default
+title: 你的标题
+---
+
+Address：
+Email: ziyi.dong[at]foxmail.com
+
+*最后更新: {{ page.date | date: "%Y-%m-%d" }}*
+
+
 Address：
 
 Email: ziyi.dong[at]foxmail.com
