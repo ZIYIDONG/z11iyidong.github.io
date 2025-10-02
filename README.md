@@ -1,12 +1,7 @@
-最后更新: {{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}
-
+Lasted Update: 2025.10.01
 Address：
 Email: ziyi.dong[at]foxmail.com
 
-
-Address：
-
-Email: ziyi.dong[at]foxmail.com
 
 
 ## Contents: [[Biography]](#Biography) [[Study]](#Study) [[Paper]](#Paper) [[Awards]](#Awards)
