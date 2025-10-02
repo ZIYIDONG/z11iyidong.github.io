@@ -3,7 +3,7 @@ Address：
 Email: ziyi.dong[at]foxmail.com
 
 
-# [Biography](#Biography) [Study](#Study) [Paper](#Paper) [Awards](#Awards)
+# [[Biography]](#Biography) [[Study]](#Study) [[Paper]](#Paper) [[Awards]](#Awards)
 
 <span id="Biography"></span>
 # Biography
