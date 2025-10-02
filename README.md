@@ -13,6 +13,8 @@ Email: dongziyi_cs@foxmail.com
 
 <span id="Paper"></span>
 ## Paper
+- Ke Yuan, Ziyi Dong, Xiuling Li, Zheli Liu, Chunfu Jia<sup>*</sup>, and Shuwang Lv. "An Efficient and Collusion-Resistant Key Parameters Pre-Distribution System for Day-Ahead Electricity Auctions". IEEE Internet of Things Journal. DOI: 10.1109/JIOT.2025.3616212. Accept, 2025.09. (IEEE IoT-J, SCI二区Top, IF=8.9)
+
 
 <span id="Awards"></span>
 ## Awards
