@@ -1,4 +1,4 @@
-![Your Name](/photo.jpg)
+<img src="photo.jpg" width="200">
 
 Master Student, Henan University
 
