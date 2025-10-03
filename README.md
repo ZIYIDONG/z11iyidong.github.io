@@ -1,3 +1,5 @@
+![Your Name](/photo.jpg)
+
 Master Student, Henan University
 
 Email: dongziyi_cs@foxmail.com
