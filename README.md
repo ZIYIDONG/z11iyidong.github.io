@@ -1,4 +1,4 @@
-<img src="photo.jpg" width="200">
+<img src="photo.jpg" width="150">
 
 Master Student, Henan University
 
