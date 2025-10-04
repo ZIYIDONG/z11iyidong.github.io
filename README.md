@@ -1,8 +1,12 @@
-<img src="photo.jpg" width="100">
+<img src="photo.jpg" width="100" align="left">
 
 Master Student, Henan University
 
 Email: dongziyi_cs@foxmail.com
+
+[[ORCID]](https://orcid.org/0009-0003-5180-0200) [[Google Scholar]](https://scholar.google.com/citations?user=_IEAuEkAAAAJ&hl=zh-CN&oi=sra)
+
+<br clear="left"/>
 
 ## [[Biography]](#Biography) [[Research Interests]](#ResearchInterests) [[Education]](#Education) [[Publications]](#Publications) [[Awards]](#Awards)
 *Last updated: 2025-10-02*
