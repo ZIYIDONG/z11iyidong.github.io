@@ -17,7 +17,7 @@ Email: dongziyi_cs@163.com
 
 <span id="ResearchInterests"></span>
 ## Research Interests
-Data Security and Privacy Protection in Smart Grid, Applied Cryptography, Lattice-Based Cryptography.
+Data Security and Privacy Protection in Smart Grid, Applied Cryptography, Lattice-Based Cryptography
 
 <span id="Education"></span>
 ## Education
@@ -34,5 +34,8 @@ Data Security and Privacy Protection in Smart Grid, Applied Cryptography, Lattic
 
 <span id="Awards"></span>
 ## Awards
+- Master's Second-Class Academic Scholarship (2025 - 2026)
+- Master's First-Class Academic Scholarship (2025 - 2026)
+- Master's First-Class Academic Scholarship (2025 - 2026)
 
 
