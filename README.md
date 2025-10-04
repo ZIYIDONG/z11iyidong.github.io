@@ -2,7 +2,7 @@
 
 Master Student, Henan University
 
-Email: dongziyi_cs@foxmail.com
+Email: dongziyi_cs@163.com
 
 [[ORCID]](https://orcid.org/0009-0003-5180-0200) [[Google Scholar]](https://scholar.google.com/citations?user=_IEAuEkAAAAJ&hl=zh-CN&oi=sra)
 
