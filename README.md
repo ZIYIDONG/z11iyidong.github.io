@@ -2,7 +2,7 @@
 
 Master Student, Henan University
 
-Email: dongziyi_cs@163.com
+Email: dongziyi_cs[at]163.com
 
 [[ORCID]](https://orcid.org/0009-0003-5180-0200) [[Google Scholar]](https://scholar.google.com/citations?user=_IEAuEkAAAAJ&hl=zh-CN&oi=sra)
 
@@ -35,7 +35,7 @@ Data Security and Privacy Protection in Smart Grid, Applied Cryptography, Lattic
 <span id="Awards"></span>
 ## Awards
 - Master's Second-Class Academic Scholarship (2025 - 2026)
-- Master's First-Class Academic Scholarship (2025 - 2026)
-- Master's First-Class Academic Scholarship (2025 - 2026)
+- Master's First-Class Academic Scholarship (2024 - 2025)
+- Master's First-Class Academic Scholarship (2023 - 2024)
 
 
